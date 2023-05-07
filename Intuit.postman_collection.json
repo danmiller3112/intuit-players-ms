@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "c83b318d-8858-4e9d-988f-1a379c6b3de9",
+		"name": "Intuit",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19106282"
+	},
+	"item": [
+		{
+			"name": "get All Players",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/players",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"players"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "get Player By Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/api/players/{{playerId}}",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"players",
+						"{{playerId}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
