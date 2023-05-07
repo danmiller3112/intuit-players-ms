@@ -1,0 +1,5 @@
+playerID,birthYear,birthMonth,birthDay,birthCountry,birthState,birthCity,deathYear,deathMonth,deathDay,deathCountry,deathState,deathCity,nameFirst,nameLast,nameGiven,weight,height,bats,throws,debut,finalGame,retroID,bbrefID
+aaaaaa,1977,4,5,D.R.,Sanchez Ramirez,Cotui,,,,,,,Winston,Abreu,Winston Leonardo,170,74,R,R,2006-08-06,2009-07-25,abrew001,abreuwi01
+bbbbbb,1883,2,2,USA,MO,St. Louis,1940,4,8,USA,MO,St. Louis,Bill,Abstein,William Henry,185,72,R,R,1906-09-25,1910-06-02,abstb101,abstebi01
+cccccc,1981,12,18,USA,AZ,Phoenix,,,,,,,Jeremy,Accardo,Jeremiah Lee,195,72,R,R,2005-05-04,2012-09-27,accaj001,accarje01
+dddddd,1982,12,8,Mexico,Sonora,San Luis Rio Colorado,,,,,,,Alfredo,Aceves,Alfredo,205,74,R,R,2008-08-31,2014-06-02,aceva001,aceveal01
