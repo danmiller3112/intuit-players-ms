@@ -18,6 +18,8 @@ public class PlayerController {
         this.playerService = playerService;
     }
 
+    //Pagination is considered a best practice for the getAllPlayers() method
+    // when dealing with a large dataset.
     @GetMapping
     public List<Player> getAllPlayers() {
         return playerService.getAllPlayers();
